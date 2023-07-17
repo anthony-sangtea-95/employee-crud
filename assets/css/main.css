@@ -1,0 +1,18 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+}
+
+.table td {
+   text-align: center;
+   line-height: 60px;
+}
+
+.table .img-name  {
+   display: flex;
+   margin-left: 5px;
+   justify-content: flex-start;
+   align-items: center;
+}
